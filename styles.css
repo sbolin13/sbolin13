@@ -28,12 +28,13 @@ body {
     margin-right: 100px;
     margin-left: 100px;
     justify-content: center;
+    align-items: center;
     }
     .about p {
     width:50%;
     text-align: center;
     margin: auto;
-    line-height: 125%;
+    line-height: 125%;align-items: center;
     }
     .about img {
     align-items: center;
