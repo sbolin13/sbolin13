@@ -37,4 +37,5 @@ body {
     max-height: 200px;
     border-radius: 25%;
     border: 2px solid rgb(126, 14, 201);
+    object-fit: cover;
     }
