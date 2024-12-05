@@ -14,7 +14,7 @@ body {
     }
     .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
     .project {
-    
+    object-fit: contain;
     width: 50%;
     margin: 10px;
     padding: 20px 10px;
