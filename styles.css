@@ -1,14 +1,14 @@
 body {
     text-align: center;
-    background: rgb(118, 118, 125);
+    background: #FF6B01;
     font-family: Arial;
     }
     h1 {
-    color: red;
+    color: #353535;
     text-align: center;
     }
     h2 {
-        color: green;
+        color: #FFFFFF;
     }
     .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
     .project {
